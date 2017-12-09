@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/connection.cpp.o ./Debug/neuron.cpp.o ./Debug/neuralNet.cpp.o ./Debug/trainingData.cpp.o
